@@ -1,8 +1,8 @@
 Metehan Aydemir
 
-I build LLM and agent systems that survive production: real traffic, real data, enterprise constraints.
+I design and build LLM and agent systems that survive production: real traffic, real data, enterprise constraints.
 
-## What I’ve shipped
+## Highlights
 
 * Multi-agent pipelines on LangGraph for enterprise clients in manufacturing, automotive and banking: schema-constrained extraction, citation grounding, provider-abstracted inference across Claude, OpenAI, Gemini and self-hosted models
 * [KAI-Flow](https://github.com/kafein-technology/KAI-Flow): an open-source node-based AI workflow platform; 25+ workflows in production across 5 products
